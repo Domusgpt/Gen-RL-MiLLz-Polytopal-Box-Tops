@@ -3,8 +3,8 @@
 **🎯 Professional 4D Mathematical Visualization Engine**  
 *Advanced WebGL-powered holographic visualization platform with multi-system architecture*
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-00ffff?style=for-the-badge)](https://domusgpt.github.io/vib34d-v2/)
-[![Gallery](https://img.shields.io/badge/Interactive-Gallery-ff00ff?style=for-the-badge)](https://domusgpt.github.io/vib34d-v2/gallery.html)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-00ffff?style=for-the-badge)](https://domusgpt.github.io/Gen-RL-MiLLz-Polytopal-Box-Tops/)
+[![Gallery](https://img.shields.io/badge/Interactive-Gallery-ff00ff?style=for-the-badge)](https://domusgpt.github.io/Gen-RL-MiLLz-Polytopal-Box-Tops/gallery.html)
 [![License](https://img.shields.io/badge/License-Commercial-ff9600?style=for-the-badge)](#licensing)
 
 ---
@@ -14,7 +14,7 @@
 Gen-RL-MiLLz's Polytopal Box-Tops is a cutting-edge **4D mathematical visualization engine** built with advanced WebGL technology. This professional-grade platform features **four distinct visualization systems**, **real-time parameter control**, and **interactive holographic effects** designed for mathematical exploration, artistic creation, and educational visualization.
 
 ### **🎮 Live Demo**
-Experience the full system: **[https://domusgpt.github.io/vib34d-v2/](https://domusgpt.github.io/vib34d-v2/)**
+Experience the full system: **[https://domusgpt.github.io/Gen-RL-MiLLz-Polytopal-Box-Tops/](https://domusgpt.github.io/Gen-RL-MiLLz-Polytopal-Box-Tops/)**
 
 ---
 
@@ -93,7 +93,7 @@ Experience the full system: **[https://domusgpt.github.io/vib34d-v2/](https://do
 ## 🛠️ **Getting Started**
 
 ### **Quick Start**
-1. **Open the Live Demo**: [https://domusgpt.github.io/vib34d-v2/](https://domusgpt.github.io/vib34d-v2/)
+1. **Open the Live Demo**: [https://domusgpt.github.io/Gen-RL-MiLLz-Polytopal-Box-Tops/](https://domusgpt.github.io/Gen-RL-MiLLz-Polytopal-Box-Tops/)
 2. **Select a System**: Choose from Faceted, Quantum, Holographic, or Polychora
 3. **Adjust Parameters**: Use the right panel to modify geometry, colors, and effects
 4. **Save Variations**: Click "Save to Gallery" to preserve your creations
@@ -102,8 +102,8 @@ Experience the full system: **[https://domusgpt.github.io/vib34d-v2/](https://do
 ### **Local Development**
 ```bash
 # Clone the repository
-git clone https://github.com/Domusgpt/vib34d-v2.git
-cd vib34d-v2
+git clone https://github.com/Domusgpt/Gen-RL-MiLLz-Polytopal-Box-Tops.git
+cd Gen-RL-MiLLz-Polytopal-Box-Tops
 
 # Start local server
 python3 -m http.server 8000
@@ -118,7 +118,7 @@ open http://localhost:8000
 ```html
 <!-- Embed in your website -->
 <iframe 
-    src="https://domusgpt.github.io/vib34d-v2/" 
+    src="https://domusgpt.github.io/Gen-RL-MiLLz-Polytopal-Box-Tops/" 
     width="800" 
     height="600"
     frameborder="0">
@@ -279,7 +279,7 @@ window.exportTradingCard('ultra');
 
 ### **Architecture Overview**
 ```
-vib34d-v2/
+Gen-RL-MiLLz-Polytopal-Box-Tops/
 ├── src/
 │   ├── core/           # Main visualization engines
 │   ├── quantum/        # Quantum system components
@@ -394,4 +394,4 @@ This software is distributed under a **commercial license** for professional use
 
 **Experience the future of mathematical visualization today.**
 
-🚀 **[Launch Live Demo](https://domusgpt.github.io/vib34d-v2/)** | 🖼️ **[Explore Gallery](https://domusgpt.github.io/vib34d-v2/gallery.html)**
+🚀 **[Launch Live Demo](https://domusgpt.github.io/Gen-RL-MiLLz-Polytopal-Box-Tops/)** | 🖼️ **[Explore Gallery](https://domusgpt.github.io/Gen-RL-MiLLz-Polytopal-Box-Tops/gallery.html)**
